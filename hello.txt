@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 hello kartikya sokhal
+=======
+hello kartikya sokhal 
+>>>>>>> 1a824e073184dd42dcd8770c66a7bf2ddaad5747
