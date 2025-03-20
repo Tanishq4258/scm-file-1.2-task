@@ -1,1 +1,2 @@
-# scm-file-1.2-task
+# Project Title
+This project is about...
